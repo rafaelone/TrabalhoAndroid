@@ -3,4 +3,7 @@
     <string name="drawerfragments">DrawerFragments</string>
     <string name="nome">Rafael Sergio</string>
     <string name="RM77722">RM77722</string>
+    <string name="sobre">Sobre</string>
+    <string name="abrir">abrir</string>
+    <string name="fechar">fechar</string>
 </resources>
