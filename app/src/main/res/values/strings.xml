@@ -1,9 +1,27 @@
 <resources>
     <string name="app_name">DrawerFragments</string>
     <string name="drawerfragments">DrawerFragments</string>
-    <string name="nome">Rafael Sergio</string>
-    <string name="RM77722">RM77722</string>
-    <string name="sobre">Sobre</string>
-    <string name="abrir">abrir</string>
+    <string name="Porshe">Porshe</string>
+    <string name="abrir">Abrir</string>
     <string name="fechar">fechar</string>
+    <string name="ano_de_lan_amento_1947">Ano de lançamento: 1947</string>
+    <string name="app">Car\'s App</string>
+    <string name="fusca">Fusca</string>
+    <string name="opala">Opala</string>
+    <string name="dodge_charger_1970">Dodge Charger 1970</string>
+    <string name="cobra_shelby">Cobra Shelby</string>
+    <string name="rural">Rural</string>
+    <string name="descricaoPorshe">Desde o seu lançamento, o 911 tem sido modificado, tanto por equipes particulares quanto pela fábrica em si, seja para rallye, corrida ou para qualquer outro tipo de competição automotiva.</string>
+    <string name="descriÇãoFusca">O Fusca foi o primeiro modelo de automóvel fabricado pela companhia alemã Volkswagen</string>
+    <string name="anoOpala">Ano de lançamento: 1668</string>
+    <string name="anoPosrche">Ano de lançamento: 1694</string>
+    <string name="descriOpala">O Chevrolet Opala foi um modelo de automóvel fabricado pela General Motors do Brasil. Foi o primeiro automóvel de passeio fabricado pela montadora no país</string>
+    <string name="cobra">Cobra</string>
+    <string name="anoCObra">Ano de lançamento: 1960</string>
+    <string name="descrCobra">Dizem que Carroll Shelby costumava colocar uma nota de US$ 100 no painel do Cobra quando o demonstrava a possíveis compradores.</string>
+    <string name="anoDodge">Ano de lançamento: 1960</string>
+    <string name="descDodge">O Dodge Charger foi uma proposta básica do Charger R/T, mas com equipamentos básicos do Dodge Dart como calotas, pneus diagonais, bancos inteiriços, e interior em curvim, </string>
+    <string name="anoRural">Ano de lançamento: 1950</string>
+    <string name="descRural">A Rural Willys pode ser considerada avó dos atuais utilitários esportivos existentes, pois era um veículo com espaço para a família, mas robusto e com vocações off-road.</string>
+
 </resources>

@@ -12,14 +12,44 @@
     android:background="@color/fundoSplash"
     tools:context="br.com.fiap.exercicios.drawerandfragments.RM77722.SplashScreenActivity">
 
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="50dp"
+    android:text="Car's app"
+    android:id="@+id/carApp"
+    android:textAlignment="center"
+    android:textColor="#fff"/>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rafael Sergio"
+        android:textColor="#fff"
+        android:paddingTop="30dp"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RM 77722"
+            android:textAlignment="center"
+            android:textColor="#fff"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
     <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/splash"
         android:src="@drawable/splash"
-
         />
+    </RelativeLayout>
 
 
 </LinearLayout>

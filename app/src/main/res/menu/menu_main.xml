@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <item
-        android:id="@+id/nmSobre"
-        android:title="@string/sobre"
-        android:icon="@drawable/ic_android_black_24dp"
+    <item android:id="@+id/fusca"
+        android:title="@string/fusca"
         />
+
+    <item android:id="@+id/porshe"
+        android:title="@string/Porshe"
+        />
+
+    <item android:id="@+id/opala"
+        android:title="@string/opala"
+        />
+
+    <item android:id="@+id/dogChar"
+        android:title="@string/dodge_charger_1970"/>
+
+    <item android:id="@+id/coshe"
+        android:title="@string/cobra_shelby"/>
+
+    <item android:id="@+id/rural"
+        android:title="@string/rural"/>
 
 
 
